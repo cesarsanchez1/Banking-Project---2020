@@ -1,4 +1,4 @@
-# Banking-Project---2018
+# Banking-Project---2020
 This is a project that interprets customer data from a text file.
 1.) Data includes things such as first name, last name, unique ID, and financial information.
 2.) To import text file information, a unique file path must be included by the user for their 
